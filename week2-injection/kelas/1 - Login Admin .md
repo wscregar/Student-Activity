@@ -1,0 +1,1 @@
+* jikas suatu buku*
