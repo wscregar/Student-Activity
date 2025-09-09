@@ -1,7 +1,8 @@
 # SQLiLite Write-up:
 
 Sumber: 
-https://play.picoctf.org/practice/challenge/304?category=1&page=1&search=sql
+* https://play.picoctf.org/practice/challenge/304?category=1&page=1&search=sql
+* https://github.com/payloadbox/sql-injection-payload-list
 
 ## Langkah pengerjaan:
 * Masuk ke halaman login
